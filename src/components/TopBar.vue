@@ -100,6 +100,6 @@ p {
 }
 
 .khichuri_logo {
-max-width:300px; 
+max-width:120px; 
 }
 </style>
