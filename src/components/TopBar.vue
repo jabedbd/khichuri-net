@@ -12,6 +12,7 @@
 
     <div>
       <p>
+      <img src="https://khichuri.net/wp-content/uploads/2018/08/khichuri-logo.png" data-wpsollazy-src="https://khichuri.net/wp-content/uploads/2018/08/khichuri-logo.png" class="wpsol-lazy site-logo passionblogger-logo passionblogger-logo-fixed wpsol-lazy-loaded" alt="খিচুড়ি" data-size="passionblogger-logo">
         Currently presenting content from
         <a :href="sourceURL">{{ splitEndpoint[2] }}</a
         >.
