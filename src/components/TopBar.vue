@@ -7,7 +7,7 @@
           name: 'home'
         }"
       >
-        <img src="https://khichuri.net/wp-content/uploads/2018/08/khichuri-logo.png" data-wpsollazy-src="https://khichuri.net/wp-content/uploads/2018/08/khichuri-logo.png" class="wpsol-lazy site-logo passionblogger-logo passionblogger-logo-fixed wpsol-lazy-loaded" alt="খিচুড়ি" data-size="passionblogger-logo">
+        <img class="khichuri_logo" src="https://khichuri.net/wp-content/uploads/2018/08/khichuri-logo.png" data-wpsollazy-src="https://khichuri.net/wp-content/uploads/2018/08/khichuri-logo.png" class="wpsol-lazy site-logo passionblogger-logo passionblogger-logo-fixed wpsol-lazy-loaded" alt="খিচুড়ি" data-size="passionblogger-logo">
        
       </router-link>
     </h1>
@@ -97,5 +97,9 @@ p {
     margin: 0;
     text-align: right;
   }
+}
+
+.khichuri_logo {
+max-width:300px; 
 }
 </style>
